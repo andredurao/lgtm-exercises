@@ -32,3 +32,16 @@ select res
 ```
 
 * Result: __-0.8900093488562771__
+
+## Exercise 3
+
+Write a query which returns the opposite of the boolean false.
+
+```
+import cpp
+
+from boolean val1
+where
+  val1 = false
+select val1.booleanNot()
+```
