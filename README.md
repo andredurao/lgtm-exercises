@@ -1,0 +1,2 @@
+# lgtm-exercises
+LGTM exercises
